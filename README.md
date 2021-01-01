@@ -10,13 +10,7 @@ Interests include serverless, AWS, serverless on AWS 😉
 
 Ways to get in touch:
 
-[Twitter](https://twitter.com/pierskarsenbarg)
-
-[LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/)
-
-[Slack](https://slack.pulumi.com/)
-
-[Email](mailto:piers@pulumi.com)
+[Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/)| [Email](mailto:piers@pulumi.com)
 
 
 
