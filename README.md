@@ -4,7 +4,7 @@ I'm Piers
 
 I'm a Customer Engineer at [Pulumi](https://github.com/pulumi) where I help people manage their cloud infrastructure.
 
-[Pronouns: he/him](http://pronoun.is/he)
+Pronouns: [he/him](http://pronoun.is/he)
 
 Interests include serverless, AWS, serverless on AWS 😉
 
