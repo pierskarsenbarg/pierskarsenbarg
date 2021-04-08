@@ -6,7 +6,7 @@ I'm a Customer Engineer at [Pulumi](https://github.com/pulumi) where I help peop
 
 Pronouns: [he/him](http://pronoun.is/he)
 
-Interests include serverless, AWS, serverless on AWS 😉
+Interests include serverless, AWS, serverless on AWS
 
 [Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/)| [Email](mailto:piers@pulumi.com)
 
