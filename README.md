@@ -8,7 +8,7 @@ Pronouns: he/him
 
 Interests include serverless, AWS, serverless on AWS
 
-[Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/) | [Email](mailto:piers@pulumi.com)
+[Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/) | [Email](mailto:piers@pulumi.com) | [Book a call](https://www.getclockwise.com/c/piers-karsenbarg/general-call)
 
 
 
