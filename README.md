@@ -2,7 +2,7 @@
 
 I'm Piers
 
-I'm a Senior Solutions Engineer at [Pulumi](https://github.com/pulumi) where I help people manage their cloud infrastructure.
+I'm a Solutions Architect at [Pulumi](https://github.com/pulumi) where I help people manage their cloud infrastructure.
 
 Pronouns: he/him
 
