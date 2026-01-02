@@ -2,7 +2,7 @@
 
 I'm Piers
 
-I'm a Senior Solutions Architect at [Pulumi](https://github.com/pulumi), where I help people manage their cloud infrastructure using IaC.
+I'm a Customer Success Architect at [Pulumi](https://github.com/pulumi), where I help people manage their cloud infrastructure using IaC.
 
 Pronouns: he/him
 
