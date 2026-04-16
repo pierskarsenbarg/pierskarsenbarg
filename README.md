@@ -6,7 +6,7 @@ I'm a Customer Success Architect at [Pulumi](https://github.com/pulumi), where I
 
 Pronouns: he/him
 
-[Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/) | [Email](mailto:piers@pulumi.com) | [Book a call](https://www.getclockwise.com/c/piers-karsenbarg/general-call)
+[Twitter](https://twitter.com/pierskarsenbarg) | [LinkedIn](https://www.linkedin.com/in/piers-karsenbarg/) | [Slack](https://slack.pulumi.com/) | [Email](mailto:piers@pulumi.com)
 
 
 
